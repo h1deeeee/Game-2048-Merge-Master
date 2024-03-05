@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` 
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Description of the project
+
+-Technologies: HTML, BEM, SCSS, JavaScript
+
+- [Demo](https://h1deeeee.github.io/Game-2048-Merge-Master/)
+
+-To start playing play, press the start button and then control the buttons on the keyboard Up Arrow, Down Arrow, Left Arrow and Right Arrow.
